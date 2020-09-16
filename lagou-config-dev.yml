@@ -15,3 +15,10 @@ management:
     web:
       exposure:
         include: "*"
+email:
+  sender: 991567775@qq.com
+  host: smtp.qq.com
+  sqm: yfwkemdxumvnbbic
+register:
+  count: 10
+  time: 1
